@@ -8,7 +8,7 @@ author:
   url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: /emerald
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
